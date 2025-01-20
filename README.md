@@ -1,4 +1,4 @@
-# WebSite de previsão do tempo
+#  🌦️ WebSite de previsão do tempo
 
 Um site simples que mostra a previsão do tempo de hoje e dos próximos 5 dias de qualquer cidade que desejar. Nesse projeto quis aprender mais sobre componentes do React, implementação de APIs e estilização de itens com CSS. 
 
